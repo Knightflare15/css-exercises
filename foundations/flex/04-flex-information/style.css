@@ -11,6 +11,17 @@ img {
   font-size: 36px;
   font-weight: 900;
 }
+.center-me {
+  text-align: center;
+}
+.list {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+text{
+  max-width: 200px;
+}
 
 /* do not edit this footer */
 .footer {
